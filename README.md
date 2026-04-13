@@ -1,4 +1,4 @@
-Refer to the [project report](https://github.com/ashamatthews/hallucination_project/blob/main/hallucination_detection_in_medical_QA_bert_vs_biobert.pdf) for more details.
+Refer to the [project report](https://github.com/UC-Berkeley-I-School/hallucination_detection_in_medical_QA_bert_vs_biobert/blob/main/hallucination_detection_in_medical_QA_bert_vs_biobert.pdf) for more details.
 
 # Detecting Hallucinations in Medical Question Answering: A Comparative Study of BERT and BioBERT
 
