@@ -6,7 +6,8 @@ A key objective of this work is to determine whether domain-specific pretraining
 
 Refer to the project report for more details https://github.com/ashamatthews/hallucination_project/blob/main/hallucination_classification_biobert.ipynb
 
-# Hallucination Detection in Medical QA: BERT vs BioBERT
+# Detecting Hallucinations in Medical Question Answering: A Comparative Study of BERT and BioBERT
+
 
 This project investigates hallucination detection in medical question answering systems using transformer-based models. I compare a general-purpose language model (**BERT**) with a biomedical domain-specific model (**BioBERT**) to evaluate their effectiveness in detecting hallucinated medical responses.
 
