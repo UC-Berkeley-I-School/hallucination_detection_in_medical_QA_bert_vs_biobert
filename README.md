@@ -140,7 +140,11 @@ BioBERT shows significantly better generalization under distribution shift.
 
 ## Repository Structure
 
+```bash
+.
 ├── hallucination_classification_bert.ipynb
 ├── hallucination_classification_biobert.ipynb
 ├── hallucination_detection_in_medical_QA_biobert_vs_bert.pdf
 └── README.md
+```
+
